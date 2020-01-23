@@ -8,13 +8,3 @@ const sequelize = new Sequelize(process.env.NAME_DATABASE, process.env.USERNAME_
 })
 
 module.exports = sequelize
-
-/*
-const sequelize = new Sequelize(process.env.NAME_DATABASE, process.env.USERNAME_DATABASE, process.env.PASSWORD_DATABASE, {
-  host: process.env.HOST_DATABASE,
-  port: process.env.PORT_DATABASE,
-
-const sequelize = new Sequelize('memberdb', 'meltingpote', '=B093cRKPQO@y', {
-  host: '51.159.25.24',
-  port: '60998',
-  */
