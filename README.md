@@ -29,7 +29,7 @@ npm run start
 
 ![Gif de la bonne humeur](https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805)
 
-# Installer l'API Rest
+# Install API:
 
 ```bash
 git clone https://gitlab.com/meltingpotes/api-member.git
@@ -37,7 +37,7 @@ cd api-member
 npm i
 ```
 
-# Instal PostgreSQL on OSX
+# InstalL PostgreSQL on OSX
 
 ## Installation:
 ```bash
