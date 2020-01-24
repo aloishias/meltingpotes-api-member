@@ -1,3 +1,30 @@
+<h1 align="center">Welcome to meltingpotes-api-member 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/alois\_\_" target="_blank">
+    <img alt="Twitter: alois\_\_" src="https://img.shields.io/twitter/follow/alois\_\_.svg?style=social" />
+  </a>
+</p>
+
+> API Rest member of meltingpotes project. NodeJS, ExpressJS and Sequelize
+
+### 🏠 [Homepage](https://gitlab.com/meltingpotes/api-publication#readme)
+
+## Install
+
+```sh
+npm i
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
 # api-publication
 
 ![Gif de la bonne humeur](https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805)
@@ -64,3 +91,19 @@ docker push registry.gitlab.com/meltingpotes/api-member
 
 https://sequelize.org/v5/manual/getting-started.html
 
+
+
+## Author
+
+👤 **Aloïs HIAS**
+
+* Twitter: [@alois\_\_](https://twitter.com/alois\_\_)
+* Github: [@aloishias](https://github.com/aloishias)
+* LinkedIn: [@aloïs-hias-40572613b](https://linkedin.com/in/aloïs-hias-40572613b)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
