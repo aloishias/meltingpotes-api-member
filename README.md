@@ -37,7 +37,7 @@ cd api-member
 npm i
 ```
 
-# Installer la BDD PostgreSQL
+# Instal PostgreSQL on OSX
 
 ## Installation:
 ```bash
@@ -46,7 +46,7 @@ brew services start postgresql
 psql postgres
 ```
 
-### Créé la base de donnée publicationdb et l'utilisateur developper:
+### Create the database and role:
 ```sql
 CREATE ROLE developper WITH LOGIN PASSWORD 'developper';
 ALTER ROLE developper CREATEDB;
@@ -56,22 +56,22 @@ GRANT ALL PRIVILEGES ON DATABASE memberdb TO developper;
 CREATE DATABASE memberdb;
 ```
 
-### Connexion à la base publicationdb avec l'utilisateur developper:
+### Connection to DB:
 ```slq
 psql -d memberdb -U developper;
 ```
 
 
-# La développer from scratch
+# Create it from scratch
 
-### Installer node & npm:
+### Install node & npm:
 
 ```bash
 brew install node
 brew install npm
 ```
 
-### Installer express & pg-promise:
+### Install express & pg-promise:
 
 ```bash
 npm install --save express
@@ -79,11 +79,11 @@ npm install --save sequelize
 npm install --save pg pg-hstore
 ```
 
-### Générer une image docker et la push sur le containeur registry de gitlab:
+### Generate docker image and push it to docker hub:
 ```docker
-docker login registry.gitlab.com -u aloishias
-docker build -t registry.gitlab.com/meltingpotes/api-member .
-docker push registry.gitlab.com/meltingpotes/api-member
+docker login
+docker build -t aloishias/api-member .
+docker push aloishias/api-member
 ```
 
 
