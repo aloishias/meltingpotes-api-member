@@ -11,7 +11,8 @@
 
 > API Rest member of meltingpotes project. NodeJS, ExpressJS and Sequelize
 
-### 🏠 [Homepage](https://gitlab.com/meltingpotes/api-publication#readme)
+
+
 
 ## Install
 
@@ -25,9 +26,13 @@ npm i
 npm run start
 ```
 
+
+
+
 # api-publication
 
 ![Gif de la bonne humeur](https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805)
+
 
 # Install API:
 
@@ -37,7 +42,10 @@ cd api-member
 npm i
 ```
 
-# InstalL PostgreSQL on OSX
+
+
+
+# Install PostgreSQL on OSX
 
 ## Installation:
 ```bash
@@ -60,6 +68,8 @@ CREATE DATABASE memberdb;
 ```slq
 psql -d memberdb -U developper;
 ```
+
+
 
 
 # Create it from scratch
