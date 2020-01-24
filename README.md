@@ -5,7 +5,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/alois__h" target="_blank">
-    <img alt="Twitter: alois\_\_" src="https://img.shields.io/twitter/follow/alois\_\_.svg?style=social" />
+    <img alt="Twitter: alois\_\_" src="https://img.shields.io/twitter/follow/alois__h.svg?style=social" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@ https://sequelize.org/v5/manual/getting-started.html
 
 👤 **Aloïs HIAS**
 
-* Twitter: [@alois\_\_](https://twitter.com/alois\_\_)
+* Twitter: [@alois__h](https://twitter.com/alois__h)
 * Github: [@aloishias](https://github.com/aloishias)
 * LinkedIn: [@aloïs-hias-40572613b](https://linkedin.com/in/aloïs-hias-40572613b)
 
