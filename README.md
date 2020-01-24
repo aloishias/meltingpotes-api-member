@@ -37,7 +37,7 @@ npm run start
 # Install API:
 
 ```bash
-git clone https://gitlab.com/meltingpotes/api-member.git
+git clone https://github.com/aloishias/meltingpotes-api-member.git
 cd api-member
 npm i
 ```
